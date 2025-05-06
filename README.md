@@ -1,15 +1,15 @@
-# 📦TradeTrackr – eCommerce Store Management System
+# 📦TradeTrackr – E-Commerce Store Management System
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/TradeTrackr?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/TradeTrackr?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/TradeTrackr)
-![GitHub license](https://img.shields.io/github/license/yourusername/TradeTrackr)
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/TradeTracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/TradeTracker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/TradeTracker)
+![GitHub license](https://img.shields.io/github/license/yourusername/TradeTracker)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ## 📚 Project Overview
 
-**TradeTrackr** is a modern, fast, and user-friendly **eCommerce store management system** that helps you manage products, vendors, analytics, and store operations all in one place. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**, it's designed for speed, scalability, and ease of customization.
+**TradeTracker** is a modern, fast, and user-friendly **eCommerce store management system** that helps you manage products, vendors, analytics, and store operations all in one place. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**, it's designed for speed, scalability, and ease of customization.
 
 ---
 
@@ -38,7 +38,7 @@
 ## 📂 Project Structure
 
 ```bash
-/TradeTrackr
+/TradeTracker
 │── src/
 │   ├── components/
 │   │   ├── dashboard/
