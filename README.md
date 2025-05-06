@@ -1,4 +1,4 @@
-# 📦TradeTrackr – E-Commerce Store Management System
+# 📦TradeTracker – E-Commerce Store Management System
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/TradeTracker?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/TradeTracker?style=social)
