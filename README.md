@@ -55,3 +55,46 @@
 │── index.html
 │── tailwind.config.js
 │── vite.config.ts
+
+🚀 Getting Started
+✅ Prerequisites
+Node.js (v16 or higher)
+
+npm or yarn
+
+📥 Installation
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/TradeTrackr.git
+cd TradeTrackr
+npm install
+# or
+yarn install
+🔄 Run Locally
+bash
+Copy
+Edit
+npm run dev
+# or
+yarn dev
+Open http://localhost:5173 in your browser.
+
+🔐 Default Credentials
+If authentication is implemented:
+
+makefile
+Copy
+Edit
+Username: admin  
+Password: admin123
+📜 Git Commit Guidelines
+Use Conventional Commits
+
+Examples:
+
+feat: add product card component
+
+fix: correct mobile sidebar layout
+
+refactor: update dashboard chart logic
