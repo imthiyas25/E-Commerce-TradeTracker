@@ -55,7 +55,7 @@
 │── index.html
 │── tailwind.config.js
 │── vite.config.ts
-
+```
 🚀 Getting Started
 ✅ Prerequisites
 Node.js (v16 or higher)
